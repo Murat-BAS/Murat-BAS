@@ -1,4 +1,4 @@
-![MasterHead](https://procoders.tech/wp-content/uploads/2023/01/How_to_Outsource_ReactJS_Development_Services_to_Grow_Your_Company.png)
+![MasterHead](https://www.paragyte.com/img/React_Banner.png)
 <h1 align="center">Hi 👋, I'm Murat Bas</h1>
 <h3 align="center">Junior React Native and Front-End Developer</h3>
 
